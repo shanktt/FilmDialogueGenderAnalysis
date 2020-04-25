@@ -1,0 +1,48 @@
+Character,Gender,speaking_turns,Total_Words,radius,diameter,Movie,Color
+Agent,male,1,16,4,8,Civil War,#1f77b4
+Aunt May,female,8,51,7.141428429,14.28285686,Civil War,#e377c2
+Bad Guy #1,male,2,15,3.872983346,7.745966692,Civil War,#1f77b4
+Bad Guy #2,male,1,3,1.732050808,3.464101615,Civil War,#1f77b4
+Bodyguard,female,1,6,2.449489743,4.898979486,Civil War,#e377c2
+Bucky,male,47,340,18.43908891,36.87817783,Civil War,#1f77b4
+Clint,male,26,274,16.55294536,33.10589071,Civil War,#1f77b4
+Cop,male,2,12,3.464101615,6.92820323,Civil War,#1f77b4
+Delivery,male,1,1,1,2,Civil War,#1f77b4
+Delivery Man,male,2,6,2.449489743,4.898979486,Civil War,#1f77b4
+Everett Ross,male,6,127,11.26942767,22.53885534,Civil War,#1f77b4
+Friday,female,17,153,12.36931688,24.73863375,Civil War,#e377c2
+Front Desk Woman,female,1,9,3,6,Civil War,#e377c2
+Guard,male,1,13,3.605551275,7.211102551,Civil War,#1f77b4
+Guy on PA system,male,1,10,3.16227766,6.32455532,Civil War,#1f77b4
+Howard,male,6,66,8.124038405,16.24807681,Civil War,#1f77b4
+LAGOS,male,1,2,1.414213562,2.828427125,Civil War,#1f77b4
+Mailman,male,1,4,2,4,Civil War,#1f77b4
+Man,male,3,6,2.449489743,4.898979486,Civil War,#1f77b4
+Maria,female,5,83,9.110433579,18.22086716,Civil War,#e377c2
+MESSAGE INBOX,male,1,2,1.414213562,2.828427125,Civil War,#1f77b4
+Miriam,female,4,114,10.67707825,21.3541565,Civil War,#e377c2
+Natasha,female,64,551,23.47338919,46.94677838,Civil War,#e377c2
+Other Winter Soldier,male,1,2,1.414213562,2.828427125,Civil War,#1f77b4
+Peter,male,66,671,25.90366769,51.80733539,Civil War,#1f77b4
+Preacher,male,1,17,4.123105626,8.246211251,Civil War,#1f77b4
+Receptionist,female,2,11,3.31662479,6.633249581,Civil War,#e377c2
+Reporter,male,7,159,12.60952021,25.21904043,Civil War,#1f77b4
+Rhodey,male,22,274,16.55294536,33.10589071,Civil War,#1f77b4
+Room Service Lady,female,5,49,7,14,Civil War,#e377c2
+Rumlow,male,8,125,11.18033989,22.36067977,Civil War,#1f77b4
+Sam,male,63,489,22.11334439,44.22668877,Civil War,#1f77b4
+Scott,male,23,244,15.62049935,31.2409987,Civil War,#1f77b4
+Secretary Ross,male,17,353,18.78829423,37.57658846,Civil War,#1f77b4
+Sharon,female,22,359,18.94729532,37.89459064,Civil War,#e377c2
+Steve,male,154,1404,37.46998799,74.93997598,Civil War,#1f77b4
+T'Chaka,male,8,174,13.19090596,26.38181192,Civil War,#1f77b4
+T'Challa,male,28,294,17.1464282,34.2928564,Civil War,#1f77b4
+Teacher Man,male,3,62,7.874007874,15.74801575,Civil War,#1f77b4
+Text Message,male,1,5,2.236067977,4.472135955,Civil War,#1f77b4
+Tony,male,162,2267,47.61302343,95.22604686,Civil War,#1f77b4
+Vasily Karpov,male,10,56,7.483314774,14.96662955,Civil War,#1f77b4
+Vision,male,27,347,18.62793601,37.25587202,Civil War,#1f77b4
+Wanda,female,31,200,14.14213562,28.28427125,Civil War,#e377c2
+Woman,female,1,23,4.795831523,9.591663047,Civil War,#e377c2
+Zemo,male,31,587,24.22808288,48.45616576,Civil War,#1f77b4
+Zemo's Wife,female,2,47,6.8556546,13.7113092,Civil War,#e377c2

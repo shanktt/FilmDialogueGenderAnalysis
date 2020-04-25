@@ -1,0 +1,35 @@
+Character,Gender,speaking_turns,Total_Words,radius,diameter,Movie,Color
+Agent Smith,male,14,144,12,24,Deadpool,#1f77b4
+Ajax,male,48,945,30.7408523,61.4817046,Deadpool,#1f77b4
+Al,female,20,153,12.36931688,24.73863375,Deadpool,#e377c2
+Angel,female,7,29,5.385164807,10.77032961,Deadpool,#e377c2
+Announcer,male,2,24,4.898979486,9.797958971,Deadpool,#1f77b4
+Another Guy,male,1,6,2.449489743,4.898979486,Deadpool,#1f77b4
+Apartment Owner,male,8,94,9.695359715,19.39071943,Deadpool,#1f77b4
+Bob,male,2,3,1.732050808,3.464101615,Deadpool,#1f77b4
+Boothe,male,3,9,3,6,Deadpool,#1f77b4
+Boss,male,1,13,3.605551275,7.211102551,Deadpool,#1f77b4
+Buck,male,6,22,4.69041576,9.38083152,Deadpool,#1f77b4
+Colossus,male,33,296,17.20465053,34.40930107,Deadpool,#1f77b4
+Cunningham,male,7,40,6.32455532,12.64911064,Deadpool,#1f77b4
+Deadpool,male,298,4692,68.49817516,136.9963503,Deadpool,#1f77b4
+Doctor,male,2,40,6.32455532,12.64911064,Deadpool,#1f77b4
+Dopinder,male,24,188,13.7113092,27.4226184,Deadpool,#1f77b4
+Garbage Man,male,1,2,1.414213562,2.828427125,Deadpool,#1f77b4
+Gunmen Leader,male,1,2,1.414213562,2.828427125,Deadpool,#1f77b4
+Jeremy,male,9,56,7.483314774,14.96662955,Deadpool,#1f77b4
+Meghan,female,2,8,2.828427125,5.656854249,Deadpool,#e377c2
+Negasonic,female,16,72,8.485281374,16.97056275,Deadpool,#e377c2
+Reporter,female,1,42,6.480740698,12.9614814,Deadpool,#e377c2
+Skee Ball Guy,male,1,18,4.242640687,8.485281374,Deadpool,#1f77b4
+Some Guy,male,1,5,2.236067977,4.472135955,Deadpool,#1f77b4
+Some Guys,male,1,6,2.449489743,4.898979486,Deadpool,#1f77b4
+Unknown Girl,female,1,8,2.828427125,5.656854249,Deadpool,#e377c2
+Unknown Guy,male,3,11,3.31662479,6.633249581,Deadpool,#1f77b4
+Unknown Guy 2,male,1,4,2,4,Deadpool,#1f77b4
+Unknown Man,male,6,24,4.898979486,9.797958971,Deadpool,#1f77b4
+Unknown Woman,female,3,11,3.31662479,6.633249581,Deadpool,#e377c2
+Unknown Woman 2,female,1,4,2,4,Deadpool,#e377c2
+Unknown Woman 3,female,1,2,1.414213562,2.828427125,Deadpool,#e377c2
+Vanessa,female,67,442,21.02379604,42.04759208,Deadpool,#e377c2
+Weasel,male,62,731,27.03701167,54.07402334,Deadpool,#1f77b4

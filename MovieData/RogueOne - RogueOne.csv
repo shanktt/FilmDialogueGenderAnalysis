@@ -1,0 +1,107 @@
+Character,Gender,speaking_turns,Total_Words,radius,diameter,Movie,Color
+Admiral Raddus,male,13,128,11.3137085,22.627417,Rogue One,#1f77b4
+Announcer,male,3,46,6.782329983,13.56465997,Rogue One,#1f77b4
+Antenna Computer,female,3,19,4.358898944,8.717797887,Rogue One,#e377c2
+Bail Organa,male,5,83,9.110433579,18.22086716,Rogue One,#1f77b4
+Baze Malbus,male,32,168,12.9614814,25.92296279,Rogue One,#1f77b4
+Blue Squadron 1,male,2,5,2.236067977,4.472135955,Rogue One,#1f77b4
+Blue Squadron 2,male,1,3,1.732050808,3.464101615,Rogue One,#1f77b4
+Blue Squadron 3,male,1,4,2,4,Rogue One,#1f77b4
+Blue Squadron 4,male,1,6,2.449489743,4.898979486,Rogue One,#1f77b4
+Bodhi Rook,male,60,820,28.63564213,57.27128425,Rogue One,#1f77b4
+C3PO,male,1,13,3.605551275,7.211102551,Rogue One,#1f77b4
+Captain Antilles,male,1,1,1,2,Rogue One,#1f77b4
+Cassian,male,140,1355,36.81032464,73.62064928,Rogue One,#1f77b4
+Chirrut Imwe,male,36,420,20.49390153,40.98780306,Rogue One,#1f77b4
+Corvette 5,male,1,12,3.464101615,6.92820323,Rogue One,#1f77b4
+Dr. Cornelius Evazan,male,1,5,2.236067977,4.472135955,Rogue One,#1f77b4
+Edrio,male,4,25,5,10,Rogue One,#1f77b4
+Engineers,male,2,5,2.236067977,4.472135955,Rogue One,#1f77b4
+Flight Control,male,3,42,6.480740698,12.9614814,Rogue One,#1f77b4
+Galen,male,21,520,22.8035085,45.607017,Rogue One,#1f77b4
+Gate Control,male,5,40,6.32455532,12.64911064,Rogue One,#1f77b4
+General Dodonna,male,1,4,2,4,Rogue One,#1f77b4
+General Draven,male,11,206,14.35270009,28.70540019,Rogue One,#1f77b4
+General Merrick,male,5,53,7.280109889,14.56021978,Rogue One,#1f77b4
+General Ramda,male,7,43,6.557438524,13.11487705,Rogue One,#1f77b4
+Girl's Mother,female,1,2,1.414213562,2.828427125,Rogue One,#e377c2
+Gold Leader,male,3,33,5.744562647,11.48912529,Rogue One,#1f77b4
+Governor Tarkin,male,16,284,16.85229955,33.70459909,Rogue One,#1f77b4
+Imperial Assistant,male,1,17,4.123105626,8.246211251,Rogue One,#1f77b4
+Imperial Assistant 2,male,6,27,5.196152423,10.39230485,Rogue One,#1f77b4
+Imperial Assistant 3,male,2,18,4.242640687,8.485281374,Rogue One,#1f77b4
+Imperial Controller,male,1,4,2,4,Rogue One,#1f77b4
+Imperial Mission Control,male,2,16,4,8,Rogue One,#1f77b4
+Imperial Mission Control 2,male,2,21,4.582575695,9.16515139,Rogue One,#1f77b4
+Imperial Officer,male,4,13,3.605551275,7.211102551,Rogue One,#1f77b4
+Imperial Officer 2,male,1,4,2,4,Rogue One,#1f77b4
+Imperial Officer 3,male,1,5,2.236067977,4.472135955,Rogue One,#1f77b4
+Imperial Pilot,male,2,6,2.449489743,4.898979486,Rogue One,#1f77b4
+Imperial Pilot 2,male,1,5,2.236067977,4.472135955,Rogue One,#1f77b4
+Imperial Soldiers,male,1,1,1,2,Rogue One,#1f77b4
+Inspector,male,2,5,2.236067977,4.472135955,Rogue One,#1f77b4
+Jyn,female,114,1045,32.32645975,64.6529195,Rogue One,#e377c2
+K2SO,male,70,612,24.73863375,49.47726751,Rogue One,#1f77b4
+Krennic,male,52,504,22.44994432,44.89988864,Rogue One,#1f77b4
+Leia,female,1,1,1,2,Rogue One,#e377c2
+Lieutenant Sefla,male,7,46,6.782329983,13.56465997,Rogue One,#1f77b4
+Lyra,female,8,34,5.830951895,11.66190379,Rogue One,#e377c2
+Mon Mothma,female,13,169,13,26,Rogue One,#e377c2
+Pad 12,male,2,20,4.472135955,8.94427191,Rogue One,#1f77b4
+Prisoner,male,1,4,2,4,Rogue One,#1f77b4
+Rebel Announcer,male,1,42,6.480740698,12.9614814,Rogue One,#1f77b4
+Rebel Army,male,7,27,5.196152423,10.39230485,Rogue One,#1f77b4
+Rebel Fighter,male,1,9,3,6,Rogue One,#1f77b4
+Rebel Officer,male,6,44,6.633249581,13.26649916,Rogue One,#1f77b4
+Rebel Officer 2,male,1,4,2,4,Rogue One,#1f77b4
+Rebel Pilot,male,2,5,2.236067977,4.472135955,Rogue One,#1f77b4
+Rebel Pilot (Female),female,2,13,3.605551275,7.211102551,Rogue One,#e377c2
+Rebel Pilot (Female) 2,female,2,8,2.828427125,5.656854249,Rogue One,#e377c2
+Rebel Pilot (Female) 3,female,1,8,2.828427125,5.656854249,Rogue One,#e377c2
+Rebel Pilot 2,male,1,7,2.645751311,5.291502622,Rogue One,#1f77b4
+Rebel Pilot 3,male,1,6,2.449489743,4.898979486,Rogue One,#1f77b4
+Rebel Pilot 4,male,1,3,1.732050808,3.464101615,Rogue One,#1f77b4
+Rebel Pilot 5,male,1,3,1.732050808,3.464101615,Rogue One,#1f77b4
+Rebel Soldier,male,1,6,2.449489743,4.898979486,Rogue One,#1f77b4
+Rebel Soldier 1,male,2,4,2,4,Rogue One,#1f77b4
+Rebel Soldier 10,male,1,23,4.795831523,9.591663047,Rogue One,#1f77b4
+Rebel Soldier 2,male,6,65,8.062257748,16.1245155,Rogue One,#1f77b4
+Rebel Soldier 3,male,1,2,1.414213562,2.828427125,Rogue One,#1f77b4
+Rebel Soldier 4,male,1,2,1.414213562,2.828427125,Rogue One,#1f77b4
+Rebel Soldier 5,male,1,2,1.414213562,2.828427125,Rogue One,#1f77b4
+Rebel Soldier 6,male,4,19,4.358898944,8.717797887,Rogue One,#1f77b4
+Rebel Soldier 7,male,3,7,2.645751311,5.291502622,Rogue One,#1f77b4
+Rebel Soldier 8,male,1,2,1.414213562,2.828427125,Rogue One,#1f77b4
+Rebel Soldier 9,male,1,1,1,2,Rogue One,#1f77b4
+Red 5,male,1,16,4,8,Rogue One,#1f77b4
+Red Leader,male,3,20,4.472135955,8.94427191,Rogue One,#1f77b4
+Saw Gerrera,male,24,238,15.42724862,30.85449724,Rogue One,#1f77b4
+Senator Jebel,male,4,44,6.633249581,13.26649916,Rogue One,#1f77b4
+Senator Pamlo,female,4,46,6.782329983,13.56465997,Rogue One,#e377c2
+Senator Vaspar,male,4,28,5.291502622,10.58300524,Rogue One,#1f77b4
+Sergeant Melshi,male,6,50,7.071067812,14.14213562,Rogue One,#1f77b4
+Ship Computer,male,1,2,1.414213562,2.828427125,Rogue One,#1f77b4
+Stormtrooper 1,male,1,9,3,6,Rogue One,#1f77b4
+Stormtrooper 10,male,8,47,6.8556546,13.7113092,Rogue One,#1f77b4
+Stormtrooper 11,male,2,7,2.645751311,5.291502622,Rogue One,#1f77b4
+Stormtrooper 12,male,2,14,3.741657387,7.483314774,Rogue One,#1f77b4
+Stormtrooper 13,male,2,9,3,6,Rogue One,#1f77b4
+Stormtrooper 14,male,1,2,1.414213562,2.828427125,Rogue One,#1f77b4
+Stormtrooper 15,male,1,4,2,4,Rogue One,#1f77b4
+Stormtrooper 16,male,1,2,1.414213562,2.828427125,Rogue One,#1f77b4
+Stormtrooper 17,male,1,4,2,4,Rogue One,#1f77b4
+Stormtrooper 18,male,1,4,2,4,Rogue One,#1f77b4
+Stormtrooper 2,male,1,4,2,4,Rogue One,#1f77b4
+Stormtrooper 3,male,1,7,2.645751311,5.291502622,Rogue One,#1f77b4
+Stormtrooper 4,male,2,7,2.645751311,5.291502622,Rogue One,#1f77b4
+Stormtrooper 5,male,2,23,4.795831523,9.591663047,Rogue One,#1f77b4
+Stormtrooper 6,male,1,6,2.449489743,4.898979486,Rogue One,#1f77b4
+Stormtrooper 7,male,1,7,2.645751311,5.291502622,Rogue One,#1f77b4
+Stormtrooper 8,male,1,3,1.732050808,3.464101615,Rogue One,#1f77b4
+Stormtrooper 9,male,1,3,1.732050808,3.464101615,Rogue One,#1f77b4
+Technician,male,1,6,2.449489743,4.898979486,Rogue One,#1f77b4
+Tivik,male,11,106,10.29563014,20.59126028,Rogue One,#1f77b4
+Unknown Senator,male,1,4,2,4,Rogue One,#1f77b4
+Unknown Senator 2,male,1,5,2.236067977,4.472135955,Rogue One,#1f77b4
+Vader,male,9,96,9.797958971,19.59591794,Rogue One,#1f77b4
+Vader's Assistant,male,1,6,2.449489743,4.898979486,Rogue One,#1f77b4

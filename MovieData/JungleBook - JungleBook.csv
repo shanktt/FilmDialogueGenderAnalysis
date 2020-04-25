@@ -1,0 +1,29 @@
+Character,Gender,speaking_turns,Total_Words,radius,diameter,Movie,Color
+Akela,male,14,133,11.53256259,23.06512519,Jungle Book,#1f77b4
+Bagheera,male,77,909,30.14962686,60.29925373,Jungle Book,#1f77b4
+Baloo,male,88,1737,41.67733197,83.35466394,Jungle Book,#1f77b4
+Female Antelope,female,1,2,1.414213562,2.828427125,Jungle Book,#e377c2
+Female Wolf,female,2,11,3.31662479,6.633249581,Jungle Book,#e377c2
+Fred,male,5,17,4.123105626,8.246211251,Jungle Book,#1f77b4
+Gray,female,16,92,9.591663047,19.18332609,Jungle Book,#e377c2
+Ikki,male,6,93,9.643650761,19.28730152,Jungle Book,#1f77b4
+Kaa,female,8,210,14.49137675,28.98275349,Jungle Book,#e377c2
+King Louie,male,20,512,22.627417,45.254834,Jungle Book,#1f77b4
+Male Antelope,male,1,5,2.236067977,4.472135955,Jungle Book,#1f77b4
+Male Hoofstock,male,1,6,2.449489743,4.898979486,Jungle Book,#1f77b4
+Male Impala,male,1,5,2.236067977,4.472135955,Jungle Book,#1f77b4
+Male Large Hoofstock,male,1,2,1.414213562,2.828427125,Jungle Book,#1f77b4
+Male Mice,male,4,15,3.872983346,7.745966692,Jungle Book,#1f77b4
+Male Pangolin,male,11,55,7.416198487,14.83239697,Jungle Book,#1f77b4
+Male Rhino,male,2,8,2.828427125,5.656854249,Jungle Book,#1f77b4
+Male Squirrel,male,9,49,7,14,Jungle Book,#1f77b4
+Male Wolf,male,5,35,5.916079783,11.83215957,Jungle Book,#1f77b4
+Male Wolf 1,male,2,6,2.449489743,4.898979486,Jungle Book,#1f77b4
+Male Wolf 2,male,2,4,2,4,Jungle Book,#1f77b4
+Male Wolf 3,male,1,2,1.414213562,2.828427125,Jungle Book,#1f77b4
+Mowgli,male,134,1207,34.74190553,69.48381106,Jungle Book,#1f77b4
+Peacock,male,4,19,4.358898944,8.717797887,Jungle Book,#1f77b4
+Raksha,female,30,266,16.30950643,32.61901286,Jungle Book,#e377c2
+Rama,male,1,10,3.16227766,6.32455532,Jungle Book,#1f77b4
+Shere Khan,male,23,552,23.49468025,46.9893605,Jungle Book,#1f77b4
+Young Rhino,female,2,10,3.16227766,6.32455532,Jungle Book,#e377c2

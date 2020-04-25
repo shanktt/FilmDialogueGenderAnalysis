@@ -1,0 +1,83 @@
+Character,Gender,speaking_turns,Total_Words,radius,diameter,Movie,Color
+Alfred,male,30,438,20.92844954,41.85689907,BatmanVSuperman,#1f77b4
+Amajagh's Assistant 2,male,1,4,2,4,BatmanVSuperman,#1f77b4
+Anatoli Knyazev,male,8,60,7.745966692,15.49193338,BatmanVSuperman,#1f77b4
+Anderson Cooper,male,3,127,11.26942767,22.53885534,BatmanVSuperman,#1f77b4
+Andrew Sullivan,male,1,21,4.582575695,9.16515139,BatmanVSuperman,#1f77b4
+Announcer,male,2,14,3.741657387,7.483314774,BatmanVSuperman,#1f77b4
+Bruce Wayne (Batman),male,81,1089,33,66,BatmanVSuperman,#1f77b4
+Captive Woman,female,3,11,3.31662479,6.633249581,BatmanVSuperman,#e377c2
+Cesar,male,1,18,4.242640687,8.485281374,BatmanVSuperman,#1f77b4
+Chairman of Joint Chiefs,male,1,7,2.645751311,5.291502622,BatmanVSuperman,#1f77b4
+Charlie Rose,male,3,60,7.745966692,15.49193338,BatmanVSuperman,#1f77b4
+Clark Kent (Superman),male,46,453,21.28379665,42.56759331,BatmanVSuperman,#1f77b4
+Cop,male,1,21,4.582575695,9.16515139,BatmanVSuperman,#1f77b4
+Courtroom Assistant,male,1,8,2.828427125,5.656854249,BatmanVSuperman,#1f77b4
+Daily Planet Worker,male,1,7,2.645751311,5.291502622,BatmanVSuperman,#1f77b4
+Dana Bash,female,2,62,7.874007874,15.74801575,BatmanVSuperman,#e377c2
+Diana Prince (Wonder Woman),female,16,179,13.37908816,26.75817632,BatmanVSuperman,#e377c2
+Dr. Silas Stone,male,1,31,5.567764363,11.13552873,BatmanVSuperman,#1f77b4
+Emmet,male,1,45,6.708203932,13.41640786,BatmanVSuperman,#1f77b4
+Erika Erickson,female,2,73,8.544003745,17.08800749,BatmanVSuperman,#e377c2
+Finch's Assistant,female,1,4,2,4,BatmanVSuperman,#e377c2
+Flash,male,1,43,6.557438524,13.11487705,BatmanVSuperman,#1f77b4
+Flight Attendant,female,2,6,2.449489743,4.898979486,BatmanVSuperman,#e377c2
+General,male,2,21,4.582575695,9.16515139,BatmanVSuperman,#1f77b4
+General Amajagh,male,5,66,8.124038405,16.24807681,BatmanVSuperman,#1f77b4
+Glen Woodburn,male,1,21,4.582575695,9.16515139,BatmanVSuperman,#1f77b4
+Governor,male,1,6,2.449489743,4.898979486,BatmanVSuperman,#1f77b4
+Greg,male,3,33,5.744562647,11.48912529,BatmanVSuperman,#1f77b4
+Guard,male,1,27,5.196152423,10.39230485,BatmanVSuperman,#1f77b4
+Helpers,male,1,4,2,4,BatmanVSuperman,#1f77b4
+Jack,male,4,39,6.244997998,12.489996,BatmanVSuperman,#1f77b4
+James,male,2,17,4.123105626,8.246211251,BatmanVSuperman,#1f77b4
+Jenny,female,10,79,8.888194417,17.77638883,BatmanVSuperman,#e377c2
+Jonathan Kent,male,2,151,12.28820573,24.57641145,BatmanVSuperman,#1f77b4
+Kahina,female,2,52,7.211102551,14.4222051,BatmanVSuperman,#e377c2
+Knyazev's Man 1,male,1,3,1.732050808,3.464101615,BatmanVSuperman,#1f77b4
+Knyazev's Man 2,male,1,2,1.414213562,2.828427125,BatmanVSuperman,#1f77b4
+Kryptonian Ship,female,11,121,11,22,BatmanVSuperman,#e377c2
+Leblanc,female,1,11,3.31662479,6.633249581,BatmanVSuperman,#e377c2
+Lex Luthor,male,54,1480,38.47076812,76.94153625,BatmanVSuperman,#1f77b4
+Lois Lane,female,48,397,19.92485885,39.84971769,BatmanVSuperman,#e377c2
+Major Farris,female,1,1,1,2,BatmanVSuperman,#e377c2
+Man 3,male,2,8,2.828427125,5.656854249,BatmanVSuperman,#1f77b4
+Man 4,male,1,5,2.236067977,4.472135955,BatmanVSuperman,#1f77b4
+Man in Car,male,1,4,2,4,BatmanVSuperman,#1f77b4
+Man in Car 2,male,1,1,1,2,BatmanVSuperman,#1f77b4
+Man on TV,male,1,11,3.31662479,6.633249581,BatmanVSuperman,#1f77b4
+Martha Kent,female,3,79,8.888194417,17.77638883,BatmanVSuperman,#e377c2
+Mercy Graves,female,4,14,3.741657387,7.483314774,BatmanVSuperman,#e377c2
+Military 2,male,2,6,2.449489743,4.898979486,BatmanVSuperman,#1f77b4
+Military 3,male,1,3,1.732050808,3.464101615,BatmanVSuperman,#1f77b4
+Military Man,male,1,6,2.449489743,4.898979486,BatmanVSuperman,#1f77b4
+Military Man 2,male,1,5,2.236067977,4.472135955,BatmanVSuperman,#1f77b4
+Military Personnel,female,4,20,4.472135955,8.94427191,BatmanVSuperman,#e377c2
+Mr. Wayne,male,2,2,1.414213562,2.828427125,BatmanVSuperman,#1f77b4
+Nancy Grace,female,1,37,6.08276253,12.16552506,BatmanVSuperman,#e377c2
+Neil deGrasse Tyson,male,1,86,9.273618495,18.54723699,BatmanVSuperman,#1f77b4
+Newscaster,male,1,80,8.94427191,17.88854382,BatmanVSuperman,#1f77b4
+Officer,male,2,14,3.741657387,7.483314774,BatmanVSuperman,#1f77b4
+Officer 2,male,2,22,4.69041576,9.38083152,BatmanVSuperman,#1f77b4
+Officer 3,male,1,6,2.449489743,4.898979486,BatmanVSuperman,#1f77b4
+Officer 4,male,1,6,2.449489743,4.898979486,BatmanVSuperman,#1f77b4
+Officer Rucka,male,3,22,4.69041576,9.38083152,BatmanVSuperman,#1f77b4
+Operator,male,1,15,3.872983346,7.745966692,BatmanVSuperman,#1f77b4
+Perry White,male,21,259,16.09347694,32.18695388,BatmanVSuperman,#1f77b4
+Photographer,male,2,8,2.828427125,5.656854249,BatmanVSuperman,#1f77b4
+Pilot,male,1,4,2,4,BatmanVSuperman,#1f77b4
+Player,male,1,3,1.732050808,3.464101615,BatmanVSuperman,#1f77b4
+President,male,5,22,4.69041576,9.38083152,BatmanVSuperman,#1f77b4
+Reporter 2,male,3,57,7.549834435,15.09966887,BatmanVSuperman,#1f77b4
+Reporter 3,male,1,15,3.872983346,7.745966692,BatmanVSuperman,#1f77b4
+Reporter 4,female,2,17,4.123105626,8.246211251,BatmanVSuperman,#e377c2
+Reporter 5,female,2,46,6.782329983,13.56465997,BatmanVSuperman,#e377c2
+Secretary Swanwick,male,18,175,13.22875656,26.45751311,BatmanVSuperman,#1f77b4
+Senator,male,5,31,5.567764363,11.13552873,BatmanVSuperman,#1f77b4
+Senator Finch,female,15,302,17.3781472,34.75629439,BatmanVSuperman,#e377c2
+Signals Officer,male,1,3,1.732050808,3.464101615,BatmanVSuperman,#1f77b4
+Soledad O'Brien,female,2,72,8.485281374,16.97056275,BatmanVSuperman,#e377c2
+Vikram Gandhi,male,2,108,10.39230485,20.78460969,BatmanVSuperman,#1f77b4
+Wallace,male,10,108,10.39230485,20.78460969,BatmanVSuperman,#1f77b4
+Woman,male,1,5,2.236067977,4.472135955,BatmanVSuperman,#1f77b4
+Woman 2,male,1,5,2.236067977,4.472135955,BatmanVSuperman,#1f77b4
