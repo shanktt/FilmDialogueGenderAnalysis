@@ -8,6 +8,7 @@ import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output
 from plotly import tools
 import pandas as pd
+import os
 
 # Graph Section Begin
 specs = [[{'type':'domain'}, {'type':'domain'}, {'type':'domain'}, {'type':'domain'}, {'type':'domain'}], [{'type':'domain'}, {'type':'domain'}, {'type':'domain'}, {'type':'domain'}, {'type':'domain'}]]
@@ -97,46 +98,18 @@ fig_stackBarplot = go.Figure(data=[
 
 fig_stackBarplot.update_layout(title_text='Percentage of Words said by Men vs Women', title_x=0.5, barmode='stack', paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='rgba(0,0,0,0)')
 
-# data = pd.read_csv('CombinedSpreadsheet.csv')
+dir = os.path.dirname(__file__)
 
-# fig_bubble = go.Figure(
-#     data=[
-#         go.Scatter(
-#             x=data['speaking_turns'],
-#             y=data['Total_Words'],
-#             mode='markers',
-#             marker=dict(
-#                 size=data['diameter'],
-#                 color=data['Color']
-#             ),
-#             hoverinfo = 'none',
-#             hovertemplate = "Character: " + data['Character'] + "<br>Movie: " + data['Movie'] + "<br>Turns Speaking: " + data['speaking_turns'].astype(str) + "<br>Total Words Spoken: " + data['Total_Words'].astype(str) + '<extra></extra>'
-#         )
-#     ],
-# )
-
-# fig_bubble.update_xaxes(title_text='Turns Speaking')
-# fig_bubble.update_yaxes(title_text='Total Words Spoken')
-# fig_bubble.update_layout(title={
-#                     'text': "Turns Speaking vs Total Words Spoken",
-#                     'x':0.5,
-#                     'xanchor': 'center',
-#                     'yanchor': 'top'
-#                 },
-#                 paper_bgcolor='rgba(0,0,0,0)',
-#                 plot_bgcolor='rgba(0,0,0,0)'
-#             )
-
-data = pd.read_csv('CombinedSpreadsheet.csv')
-data_batman_v_superman = pd.read_csv('MovieData\BatmanVSuperman - BatmanVSuperman.csv')
-data_civl_war = pd.read_csv('MovieData\CivilWar - CivilWar.csv')
-data_deadpool = pd.read_csv('MovieData\Deadpool - Deadpool.csv')
-data_fantastic_beasts = pd.read_csv('MovieData\FantasticBeasts - FantasticBeasts.csv')
-data_finding_dory = pd.read_csv('MovieData\FindingDory - FindingDory.csv')
-data_junglebook = pd.read_csv('MovieData\JungleBook - JungleBook.csv')
-data_rogue_one = pd.read_csv('MovieData\RogueOne - RogueOne.csv')
-data_secret_life_of_pets = pd.read_csv('MovieData\SecretLifeofPets - SecretLifeofPets.csv')
-data_suicide_squad = pd.read_csv('MovieData\SuicideSquad - SuicideSquad.csv')
+data = pd.read_csv(os.path.join(dir, 'MovieData', 'CombinedSpreadsheet.csv'))
+data_batman_v_superman = pd.read_csv(os.path.join(dir, 'MovieData', 'BatmanVSuperman - BatmanVSuperman.csv'))
+data_civil_war = pd.read_csv(os.path.join(dir, 'MovieData', 'CivilWar - CivilWar.csv'))
+data_deadpool = pd.read_csv(os.path.join(dir, 'MovieData', 'Deadpool - Deadpool.csv'))
+data_fantastic_beasts = pd.read_csv(os.path.join(dir, 'MovieData', 'FantasticBeasts - FantasticBeasts.csv'))
+data_finding_dory = pd.read_csv(os.path.join(dir, 'MovieData', 'FindingDory - FindingDory.csv'))
+data_junglebook = pd.read_csv(os.path.join(dir, 'MovieData', 'JungleBook - JungleBook.csv'))
+data_rogue_one = pd.read_csv(os.path.join(dir, 'MovieData', 'RogueOne - RogueOne.csv'))
+data_secret_life_of_pets = pd.read_csv(os.path.join(dir, 'MovieData' ,'SecretLifeofPets - SecretLifeofPets.csv'))
+data_suicide_squad = pd.read_csv(os.path.join(dir, 'MovieData', 'SuicideSquad - SuicideSquad.csv'))
 
 fig_bubble = go.Figure()
 
@@ -175,15 +148,15 @@ fig_bubble.add_trace(
 #Civil War
 fig_bubble.add_trace(
     go.Scatter(
-        x=data_civl_war['speaking_turns'],
-        y=data_civl_war['Total_Words'],
+        x=data_civil_war['speaking_turns'],
+        y=data_civil_war['Total_Words'],
         mode='markers',
         marker=dict(
-            size=data_civl_war['diameter'],
-            color=data_civl_war['Color']
+            size=data_civil_war['diameter'],
+            color=data_civil_war['Color']
         ),
         hoverinfo = 'none',
-        hovertemplate = "Character: " + data_civl_war['Character'] + "<br>Movie: " + data_civl_war['Movie'] + "<br>Turns Speaking: " + data_civl_war['speaking_turns'].astype(str) + "<br>Total Words Spoken: " + data_civl_war['Total_Words'].astype(str) + '<extra></extra>',
+        hovertemplate = "Character: " + data_civil_war['Character'] + "<br>Movie: " + data_civil_war['Movie'] + "<br>Turns Speaking: " + data_civil_war['speaking_turns'].astype(str) + "<br>Total Words Spoken: " + data_civil_war['Total_Words'].astype(str) + '<extra></extra>',
         visible=False
     )
 )
