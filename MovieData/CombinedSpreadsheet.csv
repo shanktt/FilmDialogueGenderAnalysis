@@ -1,0 +1,510 @@
+Character,Gender,speaking_turns,Total_Words,radius,diameter,Movie,Color
+Alfred,male,30,438,20.92844954,41.85689907,BatmanVSuperman,#1f77b4
+Amajagh's Assistant 2,male,1,4,2,4,BatmanVSuperman,#1f77b4
+Anatoli Knyazev,male,8,60,7.745966692,15.49193338,BatmanVSuperman,#1f77b4
+Anderson Cooper,male,3,127,11.26942767,22.53885534,BatmanVSuperman,#1f77b4
+Andrew Sullivan,male,1,21,4.582575695,9.16515139,BatmanVSuperman,#1f77b4
+Announcer,male,2,14,3.741657387,7.483314774,BatmanVSuperman,#1f77b4
+Bruce Wayne (Batman),male,81,1089,33,66,BatmanVSuperman,#1f77b4
+Captive Woman,female,3,11,3.31662479,6.633249581,BatmanVSuperman,#e377c2
+Cesar,male,1,18,4.242640687,8.485281374,BatmanVSuperman,#1f77b4
+Chairman of Joint Chiefs,male,1,7,2.645751311,5.291502622,BatmanVSuperman,#1f77b4
+Charlie Rose,male,3,60,7.745966692,15.49193338,BatmanVSuperman,#1f77b4
+Clark Kent (Superman),male,46,453,21.28379665,42.56759331,BatmanVSuperman,#1f77b4
+Cop,male,1,21,4.582575695,9.16515139,BatmanVSuperman,#1f77b4
+Courtroom Assistant,male,1,8,2.828427125,5.656854249,BatmanVSuperman,#1f77b4
+Daily Planet Worker,male,1,7,2.645751311,5.291502622,BatmanVSuperman,#1f77b4
+Dana Bash,female,2,62,7.874007874,15.74801575,BatmanVSuperman,#e377c2
+Diana Prince (Wonder Woman),female,16,179,13.37908816,26.75817632,BatmanVSuperman,#e377c2
+Dr. Silas Stone,male,1,31,5.567764363,11.13552873,BatmanVSuperman,#1f77b4
+Emmet,male,1,45,6.708203932,13.41640786,BatmanVSuperman,#1f77b4
+Erika Erickson,female,2,73,8.544003745,17.08800749,BatmanVSuperman,#e377c2
+Finch's Assistant,female,1,4,2,4,BatmanVSuperman,#e377c2
+Flash,male,1,43,6.557438524,13.11487705,BatmanVSuperman,#1f77b4
+Flight Attendant,female,2,6,2.449489743,4.898979486,BatmanVSuperman,#e377c2
+General,male,2,21,4.582575695,9.16515139,BatmanVSuperman,#1f77b4
+General Amajagh,male,5,66,8.124038405,16.24807681,BatmanVSuperman,#1f77b4
+Glen Woodburn,male,1,21,4.582575695,9.16515139,BatmanVSuperman,#1f77b4
+Governor,male,1,6,2.449489743,4.898979486,BatmanVSuperman,#1f77b4
+Greg,male,3,33,5.744562647,11.48912529,BatmanVSuperman,#1f77b4
+Guard,male,1,27,5.196152423,10.39230485,BatmanVSuperman,#1f77b4
+Helpers,male,1,4,2,4,BatmanVSuperman,#1f77b4
+Jack,male,4,39,6.244997998,12.489996,BatmanVSuperman,#1f77b4
+James,male,2,17,4.123105626,8.246211251,BatmanVSuperman,#1f77b4
+Jenny,female,10,79,8.888194417,17.77638883,BatmanVSuperman,#e377c2
+Jonathan Kent,male,2,151,12.28820573,24.57641145,BatmanVSuperman,#1f77b4
+Kahina,female,2,52,7.211102551,14.4222051,BatmanVSuperman,#e377c2
+Knyazev's Man 1,male,1,3,1.732050808,3.464101615,BatmanVSuperman,#1f77b4
+Knyazev's Man 2,male,1,2,1.414213562,2.828427125,BatmanVSuperman,#1f77b4
+Kryptonian Ship,female,11,121,11,22,BatmanVSuperman,#e377c2
+Leblanc,female,1,11,3.31662479,6.633249581,BatmanVSuperman,#e377c2
+Lex Luthor,male,54,1480,38.47076812,76.94153625,BatmanVSuperman,#1f77b4
+Lois Lane,female,48,397,19.92485885,39.84971769,BatmanVSuperman,#e377c2
+Major Farris,female,1,1,1,2,BatmanVSuperman,#e377c2
+Man 3,male,2,8,2.828427125,5.656854249,BatmanVSuperman,#1f77b4
+Man 4,male,1,5,2.236067977,4.472135955,BatmanVSuperman,#1f77b4
+Man in Car,male,1,4,2,4,BatmanVSuperman,#1f77b4
+Man in Car 2,male,1,1,1,2,BatmanVSuperman,#1f77b4
+Man on TV,male,1,11,3.31662479,6.633249581,BatmanVSuperman,#1f77b4
+Martha Kent,female,3,79,8.888194417,17.77638883,BatmanVSuperman,#e377c2
+Mercy Graves,female,4,14,3.741657387,7.483314774,BatmanVSuperman,#e377c2
+Military 2,male,2,6,2.449489743,4.898979486,BatmanVSuperman,#1f77b4
+Military 3,male,1,3,1.732050808,3.464101615,BatmanVSuperman,#1f77b4
+Military Man,male,1,6,2.449489743,4.898979486,BatmanVSuperman,#1f77b4
+Military Man 2,male,1,5,2.236067977,4.472135955,BatmanVSuperman,#1f77b4
+Military Personnel,female,4,20,4.472135955,8.94427191,BatmanVSuperman,#e377c2
+Mr. Wayne,male,2,2,1.414213562,2.828427125,BatmanVSuperman,#1f77b4
+Nancy Grace,female,1,37,6.08276253,12.16552506,BatmanVSuperman,#e377c2
+Neil deGrasse Tyson,male,1,86,9.273618495,18.54723699,BatmanVSuperman,#1f77b4
+Newscaster,male,1,80,8.94427191,17.88854382,BatmanVSuperman,#1f77b4
+Officer,male,2,14,3.741657387,7.483314774,BatmanVSuperman,#1f77b4
+Officer 2,male,2,22,4.69041576,9.38083152,BatmanVSuperman,#1f77b4
+Officer 3,male,1,6,2.449489743,4.898979486,BatmanVSuperman,#1f77b4
+Officer 4,male,1,6,2.449489743,4.898979486,BatmanVSuperman,#1f77b4
+Officer Rucka,male,3,22,4.69041576,9.38083152,BatmanVSuperman,#1f77b4
+Operator,male,1,15,3.872983346,7.745966692,BatmanVSuperman,#1f77b4
+Perry White,male,21,259,16.09347694,32.18695388,BatmanVSuperman,#1f77b4
+Photographer,male,2,8,2.828427125,5.656854249,BatmanVSuperman,#1f77b4
+Pilot,male,1,4,2,4,BatmanVSuperman,#1f77b4
+Player,male,1,3,1.732050808,3.464101615,BatmanVSuperman,#1f77b4
+President,male,5,22,4.69041576,9.38083152,BatmanVSuperman,#1f77b4
+Reporter 2,male,3,57,7.549834435,15.09966887,BatmanVSuperman,#1f77b4
+Reporter 3,male,1,15,3.872983346,7.745966692,BatmanVSuperman,#1f77b4
+Reporter 4,female,2,17,4.123105626,8.246211251,BatmanVSuperman,#e377c2
+Reporter 5,female,2,46,6.782329983,13.56465997,BatmanVSuperman,#e377c2
+Secretary Swanwick,male,18,175,13.22875656,26.45751311,BatmanVSuperman,#1f77b4
+Senator,male,5,31,5.567764363,11.13552873,BatmanVSuperman,#1f77b4
+Senator Finch,female,15,302,17.3781472,34.75629439,BatmanVSuperman,#e377c2
+Signals Officer,male,1,3,1.732050808,3.464101615,BatmanVSuperman,#1f77b4
+Soledad O'Brien,female,2,72,8.485281374,16.97056275,BatmanVSuperman,#e377c2
+Vikram Gandhi,male,2,108,10.39230485,20.78460969,BatmanVSuperman,#1f77b4
+Wallace,male,10,108,10.39230485,20.78460969,BatmanVSuperman,#1f77b4
+Woman,male,1,5,2.236067977,4.472135955,BatmanVSuperman,#1f77b4
+Woman 2,male,1,5,2.236067977,4.472135955,BatmanVSuperman,#1f77b4
+Agent,male,1,16,4,8,Civil War,#1f77b4
+Aunt May,female,8,51,7.141428429,14.28285686,Civil War,#e377c2
+Bad Guy #1,male,2,15,3.872983346,7.745966692,Civil War,#1f77b4
+Bad Guy #2,male,1,3,1.732050808,3.464101615,Civil War,#1f77b4
+Bodyguard,female,1,6,2.449489743,4.898979486,Civil War,#e377c2
+Bucky,male,47,340,18.43908891,36.87817783,Civil War,#1f77b4
+Clint,male,26,274,16.55294536,33.10589071,Civil War,#1f77b4
+Cop,male,2,12,3.464101615,6.92820323,Civil War,#1f77b4
+Delivery,male,1,1,1,2,Civil War,#1f77b4
+Delivery Man,male,2,6,2.449489743,4.898979486,Civil War,#1f77b4
+Everett Ross,male,6,127,11.26942767,22.53885534,Civil War,#1f77b4
+Friday,female,17,153,12.36931688,24.73863375,Civil War,#e377c2
+Front Desk Woman,female,1,9,3,6,Civil War,#e377c2
+Guard,male,1,13,3.605551275,7.211102551,Civil War,#1f77b4
+Guy on PA system,male,1,10,3.16227766,6.32455532,Civil War,#1f77b4
+Howard,male,6,66,8.124038405,16.24807681,Civil War,#1f77b4
+LAGOS,male,1,2,1.414213562,2.828427125,Civil War,#1f77b4
+Mailman,male,1,4,2,4,Civil War,#1f77b4
+Man,male,3,6,2.449489743,4.898979486,Civil War,#1f77b4
+Maria,female,5,83,9.110433579,18.22086716,Civil War,#e377c2
+MESSAGE INBOX,male,1,2,1.414213562,2.828427125,Civil War,#1f77b4
+Miriam,female,4,114,10.67707825,21.3541565,Civil War,#e377c2
+Natasha,female,64,551,23.47338919,46.94677838,Civil War,#e377c2
+Other Winter Soldier,male,1,2,1.414213562,2.828427125,Civil War,#1f77b4
+Peter,male,66,671,25.90366769,51.80733539,Civil War,#1f77b4
+Preacher,male,1,17,4.123105626,8.246211251,Civil War,#1f77b4
+Receptionist,female,2,11,3.31662479,6.633249581,Civil War,#e377c2
+Reporter,male,7,159,12.60952021,25.21904043,Civil War,#1f77b4
+Rhodey,male,22,274,16.55294536,33.10589071,Civil War,#1f77b4
+Room Service Lady,female,5,49,7,14,Civil War,#e377c2
+Rumlow,male,8,125,11.18033989,22.36067977,Civil War,#1f77b4
+Sam,male,63,489,22.11334439,44.22668877,Civil War,#1f77b4
+Scott,male,23,244,15.62049935,31.2409987,Civil War,#1f77b4
+Secretary Ross,male,17,353,18.78829423,37.57658846,Civil War,#1f77b4
+Sharon,female,22,359,18.94729532,37.89459064,Civil War,#e377c2
+Steve,male,154,1404,37.46998799,74.93997598,Civil War,#1f77b4
+T'Chaka,male,8,174,13.19090596,26.38181192,Civil War,#1f77b4
+T'Challa,male,28,294,17.1464282,34.2928564,Civil War,#1f77b4
+Teacher Man,male,3,62,7.874007874,15.74801575,Civil War,#1f77b4
+Text Message,male,1,5,2.236067977,4.472135955,Civil War,#1f77b4
+Tony,male,162,2267,47.61302343,95.22604686,Civil War,#1f77b4
+Vasily Karpov,male,10,56,7.483314774,14.96662955,Civil War,#1f77b4
+Vision,male,27,347,18.62793601,37.25587202,Civil War,#1f77b4
+Wanda,female,31,200,14.14213562,28.28427125,Civil War,#e377c2
+Woman,female,1,23,4.795831523,9.591663047,Civil War,#e377c2
+Zemo,male,31,587,24.22808288,48.45616576,Civil War,#1f77b4
+Zemo's Wife,female,2,47,6.8556546,13.7113092,Civil War,#e377c2
+Agent Smith,male,14,144,12,24,Deadpool,#1f77b4
+Ajax,male,48,945,30.7408523,61.4817046,Deadpool,#1f77b4
+Al,female,20,153,12.36931688,24.73863375,Deadpool,#e377c2
+Angel,female,7,29,5.385164807,10.77032961,Deadpool,#e377c2
+Announcer,male,2,24,4.898979486,9.797958971,Deadpool,#1f77b4
+Another Guy,male,1,6,2.449489743,4.898979486,Deadpool,#1f77b4
+Apartment Owner,male,8,94,9.695359715,19.39071943,Deadpool,#1f77b4
+Bob,male,2,3,1.732050808,3.464101615,Deadpool,#1f77b4
+Boothe,male,3,9,3,6,Deadpool,#1f77b4
+Boss,male,1,13,3.605551275,7.211102551,Deadpool,#1f77b4
+Buck,male,6,22,4.69041576,9.38083152,Deadpool,#1f77b4
+Colossus,male,33,296,17.20465053,34.40930107,Deadpool,#1f77b4
+Cunningham,male,7,40,6.32455532,12.64911064,Deadpool,#1f77b4
+Deadpool,male,298,4692,68.49817516,136.9963503,Deadpool,#1f77b4
+Doctor,male,2,40,6.32455532,12.64911064,Deadpool,#1f77b4
+Dopinder,male,24,188,13.7113092,27.4226184,Deadpool,#1f77b4
+Garbage Man,male,1,2,1.414213562,2.828427125,Deadpool,#1f77b4
+Gunmen Leader,male,1,2,1.414213562,2.828427125,Deadpool,#1f77b4
+Jeremy,male,9,56,7.483314774,14.96662955,Deadpool,#1f77b4
+Meghan,female,2,8,2.828427125,5.656854249,Deadpool,#e377c2
+Negasonic,female,16,72,8.485281374,16.97056275,Deadpool,#e377c2
+Reporter,female,1,42,6.480740698,12.9614814,Deadpool,#e377c2
+Skee Ball Guy,male,1,18,4.242640687,8.485281374,Deadpool,#1f77b4
+Some Guy,male,1,5,2.236067977,4.472135955,Deadpool,#1f77b4
+Some Guys,male,1,6,2.449489743,4.898979486,Deadpool,#1f77b4
+Unknown Girl,female,1,8,2.828427125,5.656854249,Deadpool,#e377c2
+Unknown Guy,male,3,11,3.31662479,6.633249581,Deadpool,#1f77b4
+Unknown Guy 2,male,1,4,2,4,Deadpool,#1f77b4
+Unknown Man,male,6,24,4.898979486,9.797958971,Deadpool,#1f77b4
+Unknown Woman,female,3,11,3.31662479,6.633249581,Deadpool,#e377c2
+Unknown Woman 2,female,1,4,2,4,Deadpool,#e377c2
+Unknown Woman 3,female,1,2,1.414213562,2.828427125,Deadpool,#e377c2
+Vanessa,female,67,442,21.02379604,42.04759208,Deadpool,#e377c2
+Weasel,male,62,731,27.03701167,54.07402334,Deadpool,#1f77b4
+Abernathy,male,7,56,7.483314774,14.96662955,Fantastic Beasts,#1f77b4
+Auror 1,male,1,2,1.414213562,2.828427125,Fantastic Beasts,#1f77b4
+Auror 2,male,1,1,1,2,Fantastic Beasts,#1f77b4
+Awards Announcer,male,1,42,6.480740698,12.9614814,Fantastic Beasts,#1f77b4
+Bank Employee,male,1,5,2.236067977,4.472135955,Fantastic Beasts,#1f77b4
+Barker,male,2,16,4,8,Fantastic Beasts,#1f77b4
+Bartender,male,3,12,3.464101615,6.92820323,Fantastic Beasts,#1f77b4
+Bernadette,female,2,12,3.464101615,6.92820323,Fantastic Beasts,#e377c2
+Bingley,male,8,57,7.549834435,15.09966887,Fantastic Beasts,#1f77b4
+Bingley's Assistant,female,1,8,2.828427125,5.656854249,Fantastic Beasts,#e377c2
+Boy,male,1,6,2.449489743,4.898979486,Fantastic Beasts,#1f77b4
+Chastity Barebone,female,2,17,4.123105626,8.246211251,Fantastic Beasts,#e377c2
+Credence Barebone,male,16,121,11,22,Fantastic Beasts,#1f77b4
+Customs Agent,male,6,23,4.795831523,9.591663047,Fantastic Beasts,#1f77b4
+Executioner 1,female,1,9,3,6,Fantastic Beasts,#e377c2
+Gnarlak,male,8,110,10.48808848,20.97617696,Fantastic Beasts,#1f77b4
+Grindelwald,male,2,13,3.605551275,7.211102551,Fantastic Beasts,#1f77b4
+Heinrich Eberstadt,male,1,18,4.242640687,8.485281374,Fantastic Beasts,#1f77b4
+Henry Shaw Jr.,male,5,74,8.602325267,17.20465053,Fantastic Beasts,#1f77b4
+Henry Shaw Sr.,male,9,87,9.327379053,18.65475811,Fantastic Beasts,#1f77b4
+Jacob Kowalski,male,91,737,27.14774392,54.29548784,Fantastic Beasts,#1f77b4
+Langdon Shaw,male,11,139,11.78982612,23.57965225,Fantastic Beasts,#1f77b4
+Madam Ya Zhou,female,1,10,3.16227766,6.32455532,Fantastic Beasts,#e377c2
+Man,male,1,2,1.414213562,2.828427125,Fantastic Beasts,#1f77b4
+Man 2,male,1,2,1.414213562,2.828427125,Fantastic Beasts,#1f77b4
+Man from Apartment,male,1,15,3.872983346,7.745966692,Fantastic Beasts,#1f77b4
+Mary Lou Barebone,female,16,213,14.59451952,29.18903904,Fantastic Beasts,#e377c2
+Minister,male,3,22,4.69041576,9.38083152,Fantastic Beasts,#1f77b4
+Modesty Barebone,female,6,115,10.72380529,21.44761059,Fantastic Beasts,#e377c2
+Momolou Wotorson,male,1,5,2.236067977,4.472135955,Fantastic Beasts,#1f77b4
+Mrs. Esposito,female,2,6,2.449489743,4.898979486,Fantastic Beasts,#e377c2
+Mrs. Goldstein,female,2,10,3.16227766,6.32455532,Fantastic Beasts,#e377c2
+Newt Scamander,male,175,2037,45.13313639,90.26627277,Fantastic Beasts,#1f77b4
+Percival Graves,male,42,673,25.94224354,51.88448708,Fantastic Beasts,#1f77b4
+Police Officer,male,2,17,4.123105626,8.246211251,Fantastic Beasts,#1f77b4
+Police Officer 2,male,1,2,1.414213562,2.828427125,Fantastic Beasts,#1f77b4
+Police Officer 3,male,1,5,2.236067977,4.472135955,Fantastic Beasts,#1f77b4
+Queenie Goldstein,female,43,403,20.0748599,40.1497198,Fantastic Beasts,#e377c2
+Red,male,2,6,2.449489743,4.898979486,Fantastic Beasts,#1f77b4
+Reporter,male,3,12,3.464101615,6.92820323,Fantastic Beasts,#1f77b4
+Reporter 2,male,3,22,4.69041576,9.38083152,Fantastic Beasts,#1f77b4
+Sam,male,3,7,2.645751311,5.291502622,Fantastic Beasts,#1f77b4
+Seraphina Picquery,female,21,303,17.40689519,34.81379037,Fantastic Beasts,#e377c2
+Shopping Woman,female,1,9,3,6,Fantastic Beasts,#e377c2
+Tina Goldstein,female,106,930,30.49590136,60.99180273,Fantastic Beasts,#e377c2
+Witness,male,2,48,6.92820323,13.85640646,Fantastic Beasts,#1f77b4
+Woman,female,1,3,1.732050808,3.464101615,Fantastic Beasts,#e377c2
+Woman 2,female,1,1,1,2,Fantastic Beasts,#e377c2
+Woman from Apartment,female,1,19,4.358898944,8.717797887,Fantastic Beasts,#e377c2
+Bailey,male,66,510,22.58317958,45.16635916,Finding Dory,#1f77b4
+Bill,male,2,32,5.656854249,11.3137085,Finding Dory,#1f77b4
+Bloat,male,1,2,1.414213562,2.828427125,Finding Dory,#1f77b4
+Carol,female,2,19,4.358898944,8.717797887,Finding Dory,#e377c2
+Charlie,male,58,377,19.41648784,38.83297568,Finding Dory,#1f77b4
+Crush,male,7,64,8,16,Finding Dory,#1f77b4
+Deb,female,1,5,2.236067977,4.472135955,Finding Dory,#e377c2
+Destiny,female,84,497,22.29349681,44.58699362,Finding Dory,#e377c2
+Dory,female,399,4210,64.88451279,129.7690256,Finding Dory,#e377c2
+Female Aquarist,female,3,19,4.358898944,8.717797887,Finding Dory,#e377c2
+Female Aquarist 2,female,1,11,3.31662479,6.633249581,Finding Dory,#e377c2
+Female Blue Tang,female,4,29,5.385164807,10.77032961,Finding Dory,#e377c2
+Female Blue Tang 2,female,1,4,2,4,Finding Dory,#e377c2
+Female Crab,female,7,69,8.306623863,16.61324773,Finding Dory,#e377c2
+Female Driver,female,5,30,5.477225575,10.95445115,Finding Dory,#e377c2
+Female Educator,female,2,35,5.916079783,11.83215957,Finding Dory,#e377c2
+Female Fish,female,2,14,3.741657387,7.483314774,Finding Dory,#e377c2
+Female Fish 2,female,1,5,2.236067977,4.472135955,Finding Dory,#e377c2
+Female Otter Trainer,female,2,17,4.123105626,8.246211251,Finding Dory,#e377c2
+Female Worker,female,2,12,3.464101615,6.92820323,Finding Dory,#e377c2
+Female Yellow Fish,female,1,4,2,4,Finding Dory,#e377c2
+Fluke,male,34,262,16.18641406,32.37282811,Finding Dory,#1f77b4
+Gerald,male,3,3,1.732050808,3.464101615,Finding Dory,#1f77b4
+Giant Clam,male,6,95,9.746794345,19.49358869,Finding Dory,#1f77b4
+Gil,male,4,36,6,12,Finding Dory,#1f77b4
+Gurgle,male,1,6,2.449489743,4.898979486,Finding Dory,#1f77b4
+Hank,male,119,1131,33.63034344,67.26068688,Finding Dory,#1f77b4
+Jacques,male,1,1,1,2,Finding Dory,#1f77b4
+Jenny,female,55,410,20.24845673,40.49691346,Finding Dory,#e377c2
+Kathy,female,5,31,5.567764363,11.13552873,Finding Dory,#e377c2
+Male Aquarist,male,1,4,2,4,Finding Dory,#1f77b4
+Male Aquarist 2,male,2,10,3.16227766,6.32455532,Finding Dory,#1f77b4
+Male Blue Tang,male,1,8,2.828427125,5.656854249,Finding Dory,#1f77b4
+Male Blue Tang 2,male,2,28,5.291502622,10.58300524,Finding Dory,#1f77b4
+Male Worker,male,2,21,4.582575695,9.16515139,Finding Dory,#1f77b4
+Male Yellow Fish,male,1,3,1.732050808,3.464101615,Finding Dory,#1f77b4
+Male Yellow Fish 2,male,1,1,1,2,Finding Dory,#1f77b4
+Marlin,male,162,1612,40.1497198,80.2994396,Finding Dory,#1f77b4
+Mr. Ray,male,23,211,14.52583905,29.05167809,Finding Dory,#1f77b4
+Nemo,male,72,388,19.6977156,39.39543121,Finding Dory,#1f77b4
+Peach,male,1,4,2,4,Finding Dory,#1f77b4
+Rudder,male,25,123,11.09053651,22.18107301,Finding Dory,#1f77b4
+Sea Cucumber,male,3,3,1.732050808,3.464101615,Finding Dory,#1f77b4
+Sea Cucumber 2,male,1,4,2,4,Finding Dory,#1f77b4
+Sick Fish,male,2,6,2.449489743,4.898979486,Finding Dory,#1f77b4
+Sigourney Weaver,female,13,124,11.13552873,22.27105745,Finding Dory,#e377c2
+Squirt,male,2,15,3.872983346,7.745966692,Finding Dory,#1f77b4
+Stan,male,18,82,9.055385138,18.11077028,Finding Dory,#1f77b4
+Wife Fish,female,19,108,10.39230485,20.78460969,Finding Dory,#e377c2
+Woman 1,female,1,14,3.741657387,7.483314774,Finding Dory,#e377c2
+Akela,male,14,133,11.53256259,23.06512519,Jungle Book,#1f77b4
+Bagheera,male,77,909,30.14962686,60.29925373,Jungle Book,#1f77b4
+Baloo,male,88,1737,41.67733197,83.35466394,Jungle Book,#1f77b4
+Female Antelope,female,1,2,1.414213562,2.828427125,Jungle Book,#e377c2
+Female Wolf,female,2,11,3.31662479,6.633249581,Jungle Book,#e377c2
+Fred,male,5,17,4.123105626,8.246211251,Jungle Book,#1f77b4
+Gray,female,16,92,9.591663047,19.18332609,Jungle Book,#e377c2
+Ikki,male,6,93,9.643650761,19.28730152,Jungle Book,#1f77b4
+Kaa,female,8,210,14.49137675,28.98275349,Jungle Book,#e377c2
+King Louie,male,20,512,22.627417,45.254834,Jungle Book,#1f77b4
+Male Antelope,male,1,5,2.236067977,4.472135955,Jungle Book,#1f77b4
+Male Hoofstock,male,1,6,2.449489743,4.898979486,Jungle Book,#1f77b4
+Male Impala,male,1,5,2.236067977,4.472135955,Jungle Book,#1f77b4
+Male Large Hoofstock,male,1,2,1.414213562,2.828427125,Jungle Book,#1f77b4
+Male Mice,male,4,15,3.872983346,7.745966692,Jungle Book,#1f77b4
+Male Pangolin,male,11,55,7.416198487,14.83239697,Jungle Book,#1f77b4
+Male Rhino,male,2,8,2.828427125,5.656854249,Jungle Book,#1f77b4
+Male Squirrel,male,9,49,7,14,Jungle Book,#1f77b4
+Male Wolf,male,5,35,5.916079783,11.83215957,Jungle Book,#1f77b4
+Male Wolf 1,male,2,6,2.449489743,4.898979486,Jungle Book,#1f77b4
+Male Wolf 2,male,2,4,2,4,Jungle Book,#1f77b4
+Male Wolf 3,male,1,2,1.414213562,2.828427125,Jungle Book,#1f77b4
+Mowgli,male,134,1207,34.74190553,69.48381106,Jungle Book,#1f77b4
+Peacock,male,4,19,4.358898944,8.717797887,Jungle Book,#1f77b4
+Raksha,female,30,266,16.30950643,32.61901286,Jungle Book,#e377c2
+Rama,male,1,10,3.16227766,6.32455532,Jungle Book,#1f77b4
+Shere Khan,male,23,552,23.49468025,46.9893605,Jungle Book,#1f77b4
+Young Rhino,female,2,10,3.16227766,6.32455532,Jungle Book,#e377c2
+Admiral Raddus,male,13,128,11.3137085,22.627417,Rogue One,#1f77b4
+Announcer,male,3,46,6.782329983,13.56465997,Rogue One,#1f77b4
+Antenna Computer,female,3,19,4.358898944,8.717797887,Rogue One,#e377c2
+Bail Organa,male,5,83,9.110433579,18.22086716,Rogue One,#1f77b4
+Baze Malbus,male,32,168,12.9614814,25.92296279,Rogue One,#1f77b4
+Blue Squadron 1,male,2,5,2.236067977,4.472135955,Rogue One,#1f77b4
+Blue Squadron 2,male,1,3,1.732050808,3.464101615,Rogue One,#1f77b4
+Blue Squadron 3,male,1,4,2,4,Rogue One,#1f77b4
+Blue Squadron 4,male,1,6,2.449489743,4.898979486,Rogue One,#1f77b4
+Bodhi Rook,male,60,820,28.63564213,57.27128425,Rogue One,#1f77b4
+C3PO,male,1,13,3.605551275,7.211102551,Rogue One,#1f77b4
+Captain Antilles,male,1,1,1,2,Rogue One,#1f77b4
+Cassian,male,140,1355,36.81032464,73.62064928,Rogue One,#1f77b4
+Chirrut Imwe,male,36,420,20.49390153,40.98780306,Rogue One,#1f77b4
+Corvette 5,male,1,12,3.464101615,6.92820323,Rogue One,#1f77b4
+Dr. Cornelius Evazan,male,1,5,2.236067977,4.472135955,Rogue One,#1f77b4
+Edrio,male,4,25,5,10,Rogue One,#1f77b4
+Engineers,male,2,5,2.236067977,4.472135955,Rogue One,#1f77b4
+Flight Control,male,3,42,6.480740698,12.9614814,Rogue One,#1f77b4
+Galen,male,21,520,22.8035085,45.607017,Rogue One,#1f77b4
+Gate Control,male,5,40,6.32455532,12.64911064,Rogue One,#1f77b4
+General Dodonna,male,1,4,2,4,Rogue One,#1f77b4
+General Draven,male,11,206,14.35270009,28.70540019,Rogue One,#1f77b4
+General Merrick,male,5,53,7.280109889,14.56021978,Rogue One,#1f77b4
+General Ramda,male,7,43,6.557438524,13.11487705,Rogue One,#1f77b4
+Girl's Mother,female,1,2,1.414213562,2.828427125,Rogue One,#e377c2
+Gold Leader,male,3,33,5.744562647,11.48912529,Rogue One,#1f77b4
+Governor Tarkin,male,16,284,16.85229955,33.70459909,Rogue One,#1f77b4
+Imperial Assistant,male,1,17,4.123105626,8.246211251,Rogue One,#1f77b4
+Imperial Assistant 2,male,6,27,5.196152423,10.39230485,Rogue One,#1f77b4
+Imperial Assistant 3,male,2,18,4.242640687,8.485281374,Rogue One,#1f77b4
+Imperial Controller,male,1,4,2,4,Rogue One,#1f77b4
+Imperial Mission Control,male,2,16,4,8,Rogue One,#1f77b4
+Imperial Mission Control 2,male,2,21,4.582575695,9.16515139,Rogue One,#1f77b4
+Imperial Officer,male,4,13,3.605551275,7.211102551,Rogue One,#1f77b4
+Imperial Officer 2,male,1,4,2,4,Rogue One,#1f77b4
+Imperial Officer 3,male,1,5,2.236067977,4.472135955,Rogue One,#1f77b4
+Imperial Pilot,male,2,6,2.449489743,4.898979486,Rogue One,#1f77b4
+Imperial Pilot 2,male,1,5,2.236067977,4.472135955,Rogue One,#1f77b4
+Imperial Soldiers,male,1,1,1,2,Rogue One,#1f77b4
+Inspector,male,2,5,2.236067977,4.472135955,Rogue One,#1f77b4
+Jyn,female,114,1045,32.32645975,64.6529195,Rogue One,#e377c2
+K2SO,male,70,612,24.73863375,49.47726751,Rogue One,#1f77b4
+Krennic,male,52,504,22.44994432,44.89988864,Rogue One,#1f77b4
+Leia,female,1,1,1,2,Rogue One,#e377c2
+Lieutenant Sefla,male,7,46,6.782329983,13.56465997,Rogue One,#1f77b4
+Lyra,female,8,34,5.830951895,11.66190379,Rogue One,#e377c2
+Mon Mothma,female,13,169,13,26,Rogue One,#e377c2
+Pad 12,male,2,20,4.472135955,8.94427191,Rogue One,#1f77b4
+Prisoner,male,1,4,2,4,Rogue One,#1f77b4
+Rebel Announcer,male,1,42,6.480740698,12.9614814,Rogue One,#1f77b4
+Rebel Army,male,7,27,5.196152423,10.39230485,Rogue One,#1f77b4
+Rebel Fighter,male,1,9,3,6,Rogue One,#1f77b4
+Rebel Officer,male,6,44,6.633249581,13.26649916,Rogue One,#1f77b4
+Rebel Officer 2,male,1,4,2,4,Rogue One,#1f77b4
+Rebel Pilot,male,2,5,2.236067977,4.472135955,Rogue One,#1f77b4
+Rebel Pilot (Female),female,2,13,3.605551275,7.211102551,Rogue One,#e377c2
+Rebel Pilot (Female) 2,female,2,8,2.828427125,5.656854249,Rogue One,#e377c2
+Rebel Pilot (Female) 3,female,1,8,2.828427125,5.656854249,Rogue One,#e377c2
+Rebel Pilot 2,male,1,7,2.645751311,5.291502622,Rogue One,#1f77b4
+Rebel Pilot 3,male,1,6,2.449489743,4.898979486,Rogue One,#1f77b4
+Rebel Pilot 4,male,1,3,1.732050808,3.464101615,Rogue One,#1f77b4
+Rebel Pilot 5,male,1,3,1.732050808,3.464101615,Rogue One,#1f77b4
+Rebel Soldier,male,1,6,2.449489743,4.898979486,Rogue One,#1f77b4
+Rebel Soldier 1,male,2,4,2,4,Rogue One,#1f77b4
+Rebel Soldier 10,male,1,23,4.795831523,9.591663047,Rogue One,#1f77b4
+Rebel Soldier 2,male,6,65,8.062257748,16.1245155,Rogue One,#1f77b4
+Rebel Soldier 3,male,1,2,1.414213562,2.828427125,Rogue One,#1f77b4
+Rebel Soldier 4,male,1,2,1.414213562,2.828427125,Rogue One,#1f77b4
+Rebel Soldier 5,male,1,2,1.414213562,2.828427125,Rogue One,#1f77b4
+Rebel Soldier 6,male,4,19,4.358898944,8.717797887,Rogue One,#1f77b4
+Rebel Soldier 7,male,3,7,2.645751311,5.291502622,Rogue One,#1f77b4
+Rebel Soldier 8,male,1,2,1.414213562,2.828427125,Rogue One,#1f77b4
+Rebel Soldier 9,male,1,1,1,2,Rogue One,#1f77b4
+Red 5,male,1,16,4,8,Rogue One,#1f77b4
+Red Leader,male,3,20,4.472135955,8.94427191,Rogue One,#1f77b4
+Saw Gerrera,male,24,238,15.42724862,30.85449724,Rogue One,#1f77b4
+Senator Jebel,male,4,44,6.633249581,13.26649916,Rogue One,#1f77b4
+Senator Pamlo,female,4,46,6.782329983,13.56465997,Rogue One,#e377c2
+Senator Vaspar,male,4,28,5.291502622,10.58300524,Rogue One,#1f77b4
+Sergeant Melshi,male,6,50,7.071067812,14.14213562,Rogue One,#1f77b4
+Ship Computer,male,1,2,1.414213562,2.828427125,Rogue One,#1f77b4
+Stormtrooper 1,male,1,9,3,6,Rogue One,#1f77b4
+Stormtrooper 10,male,8,47,6.8556546,13.7113092,Rogue One,#1f77b4
+Stormtrooper 11,male,2,7,2.645751311,5.291502622,Rogue One,#1f77b4
+Stormtrooper 12,male,2,14,3.741657387,7.483314774,Rogue One,#1f77b4
+Stormtrooper 13,male,2,9,3,6,Rogue One,#1f77b4
+Stormtrooper 14,male,1,2,1.414213562,2.828427125,Rogue One,#1f77b4
+Stormtrooper 15,male,1,4,2,4,Rogue One,#1f77b4
+Stormtrooper 16,male,1,2,1.414213562,2.828427125,Rogue One,#1f77b4
+Stormtrooper 17,male,1,4,2,4,Rogue One,#1f77b4
+Stormtrooper 18,male,1,4,2,4,Rogue One,#1f77b4
+Stormtrooper 2,male,1,4,2,4,Rogue One,#1f77b4
+Stormtrooper 3,male,1,7,2.645751311,5.291502622,Rogue One,#1f77b4
+Stormtrooper 4,male,2,7,2.645751311,5.291502622,Rogue One,#1f77b4
+Stormtrooper 5,male,2,23,4.795831523,9.591663047,Rogue One,#1f77b4
+Stormtrooper 6,male,1,6,2.449489743,4.898979486,Rogue One,#1f77b4
+Stormtrooper 7,male,1,7,2.645751311,5.291502622,Rogue One,#1f77b4
+Stormtrooper 8,male,1,3,1.732050808,3.464101615,Rogue One,#1f77b4
+Stormtrooper 9,male,1,3,1.732050808,3.464101615,Rogue One,#1f77b4
+Technician,male,1,6,2.449489743,4.898979486,Rogue One,#1f77b4
+Tivik,male,11,106,10.29563014,20.59126028,Rogue One,#1f77b4
+Unknown Senator,male,1,4,2,4,Rogue One,#1f77b4
+Unknown Senator 2,male,1,5,2.236067977,4.472135955,Rogue One,#1f77b4
+Vader,male,9,96,9.797958971,19.59591794,Rogue One,#1f77b4
+Vader's Assistant,male,1,6,2.449489743,4.898979486,Rogue One,#1f77b4
+Buddy,male,26,169,13,26,Secret Life Of Pets,#1f77b4
+Cat's Mom,female,1,2,1.414213562,2.828427125,Secret Life Of Pets,#e377c2
+Chloe,female,27,284,16.85229955,33.70459909,Secret Life Of Pets,#e377c2
+Chloe's Mom,female,1,7,2.645751311,5.291502622,Secret Life Of Pets,#e377c2
+Derick,male,4,16,4,8,Secret Life Of Pets,#1f77b4
+Dogcatcher 1,male,8,47,6.8556546,13.7113092,Secret Life Of Pets,#1f77b4
+Dogcatcher 2,male,8,41,6.403124237,12.80624847,Secret Life Of Pets,#1f77b4
+Dragon,male,1,3,1.732050808,3.464101615,Secret Life Of Pets,#1f77b4
+Duke,male,102,855,29.24038303,58.48076607,Secret Life Of Pets,#1f77b4
+Female Corgi,female,1,4,2,4,Secret Life Of Pets,#e377c2
+Female Dog,female,1,2,1.414213562,2.828427125,Secret Life Of Pets,#e377c2
+Fernando,male,2,27,5.196152423,10.39230485,Secret Life Of Pets,#1f77b4
+Fluffy Cat,male,3,36,6,12,Secret Life Of Pets,#1f77b4
+Gidget,female,58,579,24.06241883,48.12483766,Secret Life Of Pets,#e377c2
+Gidget's Mom,female,1,6,2.449489743,4.898979486,Secret Life Of Pets,#e377c2
+Gino's Dad,male,1,3,1.732050808,3.464101615,Secret Life Of Pets,#1f77b4
+Girl Dog Walker,female,2,6,2.449489743,4.898979486,Secret Life Of Pets,#e377c2
+Guillermo,male,4,21,4.582575695,9.16515139,Secret Life Of Pets,#1f77b4
+Guy Playing Fetch,male,1,2,1.414213562,2.828427125,Secret Life Of Pets,#1f77b4
+Katie,female,12,234,15.29705854,30.59411708,Secret Life Of Pets,#e377c2
+Leonard's Dad,male,2,15,3.872983346,7.745966692,Secret Life Of Pets,#1f77b4
+Little Girl,female,4,30,5.477225575,10.95445115,Secret Life Of Pets,#e377c2
+Male Cat,male,1,2,1.414213562,2.828427125,Secret Life Of Pets,#1f77b4
+Male Cat 2,male,2,5,2.236067977,4.472135955,Secret Life Of Pets,#1f77b4
+Male Dog,male,1,4,2,4,Secret Life Of Pets,#1f77b4
+Male Golden Retriever,male,1,5,2.236067977,4.472135955,Secret Life Of Pets,#1f77b4
+Male Turtle,male,1,2,1.414213562,2.828427125,Secret Life Of Pets,#1f77b4
+Man,male,1,2,1.414213562,2.828427125,Secret Life Of Pets,#1f77b4
+Maria,female,3,15,3.872983346,7.745966692,Secret Life Of Pets,#e377c2
+Max,male,152,1659,40.73082371,81.46164742,Secret Life Of Pets,#1f77b4
+Mel,male,25,201,14.17744688,28.35489376,Secret Life Of Pets,#1f77b4
+Mel's Dad,male,1,3,1.732050808,3.464101615,Secret Life Of Pets,#1f77b4
+Nitro,male,2,22,4.69041576,9.38083152,Secret Life Of Pets,#1f77b4
+Norman,male,14,69,8.306623863,16.61324773,Secret Life Of Pets,#1f77b4
+Ozone,male,11,124,11.13552873,22.27105745,Secret Life Of Pets,#1f77b4
+Peanut,male,3,11,3.31662479,6.633249581,Secret Life Of Pets,#1f77b4
+Peppy's Dad,male,1,2,1.414213562,2.828427125,Secret Life Of Pets,#1f77b4
+Pops,male,27,261,16.15549442,32.31098884,Secret Life Of Pets,#1f77b4
+Retractable Leash Dog,male,1,8,2.828427125,5.656854249,Secret Life Of Pets,#1f77b4
+Runty's Dad,male,1,2,1.414213562,2.828427125,Secret Life Of Pets,#1f77b4
+Seamonkey,male,1,10,3.16227766,6.32455532,Secret Life Of Pets,#1f77b4
+Shelly's Mom,female,1,4,2,4,Secret Life Of Pets,#e377c2
+Snowball,male,55,1045,32.32645975,64.6529195,Secret Life Of Pets,#1f77b4
+Sweetpea's Dad,male,1,2,1.414213562,2.828427125,Secret Life Of Pets,#1f77b4
+Tattoo,male,6,49,7,14,Secret Life Of Pets,#1f77b4
+Taxi Driver,male,1,1,1,2,Secret Life Of Pets,#1f77b4
+Tiberius,male,27,275,16.58312395,33.1662479,Secret Life Of Pets,#1f77b4
+Woman,female,2,5,2.236067977,4.472135955,Secret Life Of Pets,#e377c2
+Admiral Olsen,male,2,17,4.123105626,8.246211251,Suicide Squad,#1f77b4
+Ames,male,1,8,2.828427125,5.656854249,Suicide Squad,#1f77b4
+Angelo,male,6,47,6.8556546,13.7113092,Suicide Squad,#1f77b4
+Batman,male,6,54,7.348469228,14.69693846,Suicide Squad,#1f77b4
+Bodyguard,male,1,5,2.236067977,4.472135955,Suicide Squad,#1f77b4
+Bodyguard 2,female,1,2,1.414213562,2.828427125,Suicide Squad,#e377c2
+Bride,female,1,8,2.828427125,5.656854249,Suicide Squad,#e377c2
+Businessman,male,1,11,3.31662479,6.633249581,Suicide Squad,#1f77b4
+Captain Boomerang,male,30,326,18.05547009,36.11094017,Suicide Squad,#1f77b4
+Casino Boss,male,1,23,4.795831523,9.591663047,Suicide Squad,#1f77b4
+Dexter Tolliver,male,15,241,15.5241747,31.04834939,Suicide Squad,#1f77b4
+Diablo,male,31,374,19.33907961,38.67815921,Suicide Squad,#1f77b4
+Diablo's Wife,female,4,29,5.385164807,10.77032961,Suicide Squad,#e377c2
+Dispatcher,female,1,6,2.449489743,4.898979486,Suicide Squad,#e377c2
+Enchantress,female,23,265,16.2788206,32.55764119,Suicide Squad,#e377c2
+Female Assistant,female,3,23,4.795831523,9.591663047,Suicide Squad,#e377c2
+Flag,male,118,1218,34.89985673,69.79971347,Suicide Squad,#1f77b4
+Flash,male,1,5,2.236067977,4.472135955,Suicide Squad,#1f77b4
+Floyd,male,127,1432,37.84177586,75.68355171,Suicide Squad,#1f77b4
+General,male,7,60,7.745966692,15.49193338,Suicide Squad,#1f77b4
+General 2,male,1,9,3,6,Suicide Squad,#1f77b4
+Griggs,male,36,500,22.36067977,44.72135955,Suicide Squad,#1f77b4
+Guard 2,male,2,18,4.242640687,8.485281374,Suicide Squad,#1f77b4
+Guard 3,male,1,7,2.645751311,5.291502622,Suicide Squad,#1f77b4
+Guard 4,male,1,5,2.236067977,4.472135955,Suicide Squad,#1f77b4
+Guard at Gate,male,1,12,3.464101615,6.92820323,Suicide Squad,#1f77b4
+Harley,female,87,602,24.53568829,49.07137659,Suicide Squad,#e377c2
+Incubus,male,6,23,4.795831523,9.591663047,Suicide Squad,#1f77b4
+Joker,male,32,258,16.0623784,32.12475681,Suicide Squad,#1f77b4
+Jonny Frost,male,6,76,8.717797887,17.43559577,Suicide Squad,#1f77b4
+June,female,12,83,9.110433579,18.22086716,Suicide Squad,#e377c2
+Katana,female,6,38,6.164414003,12.32882801,Suicide Squad,#e377c2
+Killer Croc,male,9,42,6.480740698,12.9614814,Suicide Squad,#1f77b4
+Mafia Guy,male,1,5,2.236067977,4.472135955,Suicide Squad,#1f77b4
+Male Dispatch,male,1,8,2.828427125,5.656854249,Suicide Squad,#1f77b4
+Man in Flashback,male,2,7,2.645751311,5.291502622,Suicide Squad,#1f77b4
+Medic's Wife,female,1,13,3.605551275,7.211102551,Suicide Squad,#e377c2
+Medical Officer,male,5,15,3.872983346,7.745966692,Suicide Squad,#1f77b4
+Medical Officer 2,female,2,5,2.236067977,4.472135955,Suicide Squad,#e377c2
+Medical Officer 3,male,1,2,1.414213562,2.828427125,Suicide Squad,#1f77b4
+Military Extra,male,2,18,4.242640687,8.485281374,Suicide Squad,#1f77b4
+Military on Radio,male,2,18,4.242640687,8.485281374,Suicide Squad,#1f77b4
+Military Personnel,male,3,13,3.605551275,7.211102551,Suicide Squad,#1f77b4
+Monster T,male,6,53,7.280109889,14.56021978,Suicide Squad,#1f77b4
+Nurse,female,2,12,3.464101615,6.92820323,Suicide Squad,#e377c2
+Physician,male,2,7,2.645751311,5.291502622,Suicide Squad,#1f77b4
+Pilot,male,1,16,4,8,Suicide Squad,#1f77b4
+Police Officer,male,1,19,4.358898944,8.717797887,Suicide Squad,#1f77b4
+Police Officer 2,male,1,11,3.31662479,6.633249581,Suicide Squad,#1f77b4
+SEAL,male,1,5,2.236067977,4.472135955,Suicide Squad,#1f77b4
+Seal 1,male,5,24,4.898979486,9.797958971,Suicide Squad,#1f77b4
+Seal 2,male,1,7,2.645751311,5.291502622,Suicide Squad,#1f77b4
+Seal 3,male,1,2,1.414213562,2.828427125,Suicide Squad,#1f77b4
+Seal 4,male,1,2,1.414213562,2.828427125,Suicide Squad,#1f77b4
+Seals,male,1,3,1.732050808,3.464101615,Suicide Squad,#1f77b4
+Slipknot,male,4,12,3.464101615,6.92820323,Suicide Squad,#1f77b4
+Soldier on Radio,male,4,15,3.872983346,7.745966692,Suicide Squad,#1f77b4
+Unknown Assistant,male,1,2,1.414213562,2.828427125,Suicide Squad,#1f77b4
+Unknown Man,male,1,13,3.605551275,7.211102551,Suicide Squad,#1f77b4
+Unknown Men,male,1,9,3,6,Suicide Squad,#1f77b4
+Unknown soldier,male,3,3,1.732050808,3.464101615,Suicide Squad,#1f77b4
+Unknown Soldier,male,3,44,6.633249581,13.26649916,Suicide Squad,#1f77b4
+Van Driver,male,2,30,5.477225575,10.95445115,Suicide Squad,#1f77b4
+Waller,female,79,1210,34.78505426,69.57010852,Suicide Squad,#e377c2
+Zoe,female,12,131,11.44552314,22.89104628,Suicide Squad,#e377c2
