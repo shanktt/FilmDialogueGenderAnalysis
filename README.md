@@ -1,4 +1,4 @@
-# This repository hosts the code maintaing filmdailoguegenderanalysis.herokuapp.com
+# This repository hosts code maintaing filmdailoguegenderanalysis.herokuapp.com
 
 ## About
 This project was created for [CWL 207](http://catalog.illinois.edu/courses-of-instruction/cwl/) at the University of Illinois at Urbana Champaign. 
