@@ -98,6 +98,8 @@ fig_stackBarplot = go.Figure(data=[
 
 fig_stackBarplot.update_layout(title_text='Percentage of Words said by Men vs Women', title_x=0.5, barmode='stack', paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='rgba(0,0,0,0)')
 
+fig_stackBarplot.update_yaxes(title_text='Percentage')
+
 dir = os.path.dirname(__file__)
 
 data = pd.read_csv(os.path.join(dir, 'MovieData', 'CombinedSpreadsheet.csv'))
@@ -276,7 +278,7 @@ fig_bubble.add_trace(
 fig_bubble.update_xaxes(title_text='Turns Speaking')
 fig_bubble.update_yaxes(title_text='Total Words Spoken')
 fig_bubble.update_layout(title={
-                    'text': "Turns Speaking vs Total Words Spoken All Movies'",
+                    'text': "Turns Speaking vs Total Words Spoken All Movies",
                     'x':0.5,
                     'xanchor': 'center',
                     'yanchor': 'top'
@@ -287,11 +289,13 @@ fig_bubble.update_layout(title={
 fig_bubble.update_layout(
     updatemenus=[
         dict(
-            type='buttons',
-            direction='right',
+            # type='buttons',
+            direction='down',
             active=0,
-            x=0.8,
-            y=1.4,
+            # x=0.8,
+            # y=1.4,
+            x= 0.2,
+            y= 1.18,
             buttons=list([
                 dict(label='All Movies',
                      method='update',
@@ -346,6 +350,8 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 # app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.JOURNAL]) #LUX
+
+server = app.server
 
 # Since we're adding callbacks to elements that don't exist in the app.layout,
 # Dash will raise an exception to warn us that we might be
